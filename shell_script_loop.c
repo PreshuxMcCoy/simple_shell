@@ -1,4 +1,4 @@
-#include "simpshell.h"
+#include "main.h"
 
 /**
  * hsh - main shell loop

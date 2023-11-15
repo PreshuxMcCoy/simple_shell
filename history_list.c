@@ -1,4 +1,4 @@
-#include "simpshell.h"
+#include "main.h"
 
 /**
  * get_history_file - gets the history file

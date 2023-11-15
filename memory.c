@@ -1,4 +1,4 @@
-#include "simshell.h"
+#include "main.h"
 
 /**
  * bfree - frees a pointer and NULLs the address
